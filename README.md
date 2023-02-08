@@ -1,2 +1,2 @@
 # gfp
-Goland functional programming
+Go functional programming
