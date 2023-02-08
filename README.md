@@ -1,0 +1,2 @@
+# gfp
+Goland functional programming
